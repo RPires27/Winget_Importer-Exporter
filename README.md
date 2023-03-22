@@ -22,9 +22,9 @@ Simple GUI program made in Python and converted to EXE to export and import the 
 
 <details>
 <summary>Export</summary>
-Choose the location where you want to save your file.
 
-Give it a name
+- Choose the location where you want to save your file.
+- Give it a name
 
 <p align="center">
   <img src="./images/winget_importer-exporter_export.png?raw=true" alt="WinGet Export" />
@@ -35,9 +35,8 @@ Give it a name
 <details>
 <summary>Import</summary>
 
-Choose the file you want to import
-
-Import
+- Choose the file you want to import.
+- Import.
 
 <p align="center">
   <img src="./images/winget_importer-exporter_import.png?raw=true" alt="WinGet Import" />
